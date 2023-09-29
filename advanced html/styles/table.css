@@ -1,0 +1,14 @@
+table,th,td{ 
+    border:1px solid black;
+    border-collapse: collapse;
+    }
+
+tr:nth-child(even){
+    background-color: rgb(216, 240, 216);
+}    
+td:nth-child(even),th:nth-child(even){
+    background-color: rgb(216, 240, 216);
+}
+h2{
+    color:darkblue;
+}

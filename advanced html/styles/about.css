@@ -1,0 +1,21 @@
+.paragraph-one{
+    color:blue;
+}
+
+.paragraph-two{
+    background-color: yellow;
+}
+
+.paragraph-three{
+    font-size: 50px;
+    font-family: monospace;
+    color: darkviolet;
+}
+
+.paragraph-four{
+    color:darkgreen;
+}
+
+#the-id-attribute{
+    color: brown;
+}
